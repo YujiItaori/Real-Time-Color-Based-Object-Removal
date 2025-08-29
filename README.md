@@ -1,4 +1,3 @@
-```markdown
 # Real-Time Invisibility Cloak with Dynamic Background Using OpenCV
 
 This project implements a real-time invisibility cloak effect using OpenCV and Python. It removes a red-colored cloak in front of a webcam by dynamically replacing it with the background, which updates continuously to adapt to slight changes in the scene for a smooth and robust invisibility effect.
